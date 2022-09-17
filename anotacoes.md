@@ -83,4 +83,7 @@ Comunicação é um desafio para a maioria das pessoas. **Não se sinta reprimid
 
 5. Capacidade de se adaptar: Seja receptivo as mudanças. Mudar é todos os dias. Aceite novos desafios
 
+# Final Round - https://efficient-sloth-d85.notion.site/Aula-05-893c872593ee4621945d25638fc8b277
+
+
 
