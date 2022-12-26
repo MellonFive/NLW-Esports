@@ -14,6 +14,7 @@ Nada mais é do que você ensinar o computador
 
 - Sintaxe: Maneira correta de escrever
 
+<br>
 
 ## Front-End e Back-End
 
@@ -45,7 +46,6 @@ Ferramentas:
 
 - Layout: Figma
 
-
 <hr>
 
 # High Speed
@@ -74,7 +74,6 @@ Ferramentas:
 
 Comunicação é um desafio para a maioria das pessoas. **Não se sinta reprimido ou com medo de ser julgado!!!** Vai para o próximo nível! Pratique muito todos os dias.
 
-
 2. Escrita técnica: Desenvolver a parte técnica de escrever, documentar seus processos, os conceitos. Faça boas documentações.
 
 3. Próatividade: Busca fazer antes de ser solicitado e entregue sempre mais do que o esperado. Isso aqui é mudança de jogo. **Não seja passivo diantes dos desafios!!** Esse segredo vai fazer você ser um destaque nas empresas onde você vai passar. Próatividade sempre.
@@ -85,5 +84,6 @@ Comunicação é um desafio para a maioria das pessoas. **Não se sinta reprimid
 
 # Final Round - https://efficient-sloth-d85.notion.site/Aula-05-893c872593ee4621945d25638fc8b277
 
+<hr>
 
-
+# Mission Complete | Encerramento NLW eSports
