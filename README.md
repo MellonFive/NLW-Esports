@@ -1,19 +1,25 @@
-# NLW eSports 
+<h1 align="center">NLW eSports</h1>
 
 ![preview](./.github/preview.png)
 
-> Trilha Explorer
+<p align="center">Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB</p>
 
-Projeto construído do evento Next Level Week da Rocketseat.
+<br>
 
-[ :link: Clique aqui para acessar](https://mellonfive.github.io/nlw-esports-explorer/)
-
-## :hammer: Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 - Git e Github
 
-## :email: Contato
+<br>
 
-felipe.mellao08@gmail.com
+<h2 align="center">Feito com ♥ by Rocketseat</h2>
+
+<br>
+
+<p align="center"> Projeto construído do evento Next Level Week da Rocketseat.</p>
+
+<br>
+
+[Clique aqui para acessar](https://mellonfive.github.io/nlw-esports-explorer/)
